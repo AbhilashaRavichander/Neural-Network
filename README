@@ -1,15 +1,11 @@
 Python program to train a neural network (using a
 single training tuple):
-1.0
-1.0
-0.25
-Outputs
--1.0
--0.5
+Input: (1.0, 0.25, -0.5)
+Outputs: 1.0, -1.0
 All initial weights and biases chosen randomly in the range of (-1.0, 1.0).
-The program prints the following:
-Initial value of weights and biases
-Number of iterations
-Termination criterion
-Final value of all weights and biases
+The program displays the following:
+-->Initial value of weights and biases
+-->Number of iterations
+-->Termination criterion
+-->Final value of all weights and biases
 
